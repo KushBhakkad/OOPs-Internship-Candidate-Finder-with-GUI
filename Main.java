@@ -15,7 +15,7 @@ public class  Main{
         JFrame frame = new JFrame("OOPs_Project");
         frame.setSize(800, 800);
 
-        ImageIcon backgroundIcon = new ImageIcon("D:\\All_projects\\OOPs_internship_candidate_finder\\2.jpg");
+        ImageIcon backgroundIcon = new ImageIcon("D:\\All_projects\\OOPs_internship_candidate_finder\\Project\\hero.png");
         Image backgroundImg = backgroundIcon.getImage().getScaledInstance(800, 800, Image.SCALE_SMOOTH);
         backgroundIcon = new ImageIcon(backgroundImg);
 
